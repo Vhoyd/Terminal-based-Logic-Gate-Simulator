@@ -8,7 +8,7 @@ A simple, minimalistic program that allows you to test inputs for logic gates an
 You've probably heard of logic gates before. Logic gates are the basic components of how any computer work, and you link them together to make fancier logic circuits. Think of it like legos, each piece is small and simple on its own but when put together they can create huge sets.
 
 > How do they work?
-
+ 
 Logic gates are simple. They take in inputs, and based on those inputs they give an output. Switches, on and off, 1s and 0s. They're like an if statement in programming.
 
 > Examples?

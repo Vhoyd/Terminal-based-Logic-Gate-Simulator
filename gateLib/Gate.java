@@ -72,7 +72,7 @@ public class Gate {
   public Gate clone() {
     return new Gate(this);
   }
-
+ 
   public GateUpdater getUpdater() {
     return updater;
   }
