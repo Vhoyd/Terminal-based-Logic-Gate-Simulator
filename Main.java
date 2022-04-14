@@ -23,7 +23,7 @@ class Main {
         int state = gate.getPin(0).getState() * gate.getPin(1).getState(); //will only == 1 if both 0 and 1 are 1
         gate.getOutput().setState(state);
       }
-    };
+    }; 
     
     Gate AND = new Gate("AND", 2, ANDUpdater, true);
     
